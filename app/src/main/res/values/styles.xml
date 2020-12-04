@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@android:color/holo_orange_light</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Menu Style-->
+    <style name="navigationTheme">
+        <!-- Color of text and icon when selected-->
+        <item name="colorPrimary">@android:color/holo_orange_light</item>
+        <!-- Background color when selected-->
+        <item name="colorControlHighlight">#000</item>
+    </style>
+
+    <style name="LibraryTheme" parent="Theme.AppCompat.Light.DarkActionBar" />
+
+</resources>

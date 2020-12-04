@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">Polaris</string>
+    <string name="slogan">Let the music take you away</string>
+
+    <!-- String for the OnBoarding Screen-->
+    <!-- Titles-->
+    <string name="first_slide_title">No ADs</string>
+    <string name="second_slide_title">Play Offline</string>
+    <string name="third_slide_title">Completely Free</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!-- Descriptions-->
+    <string name="first_slide_desc">No interruptions. Play the music you love, ad-free.</string>
+    <string name="second_slide_desc">No internet connectivity? Play your music collection offline.</string>
+    <string name="third_slide_desc">No premium membership needed. Get access to all the features completely free!</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As long as you have the app in your pocket then you don\'t need to worry.</string>
+
+    <!-- Buttons-->
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="lets_get_started">Let\'s Get Started</string>
+
+    <!-- String for the Dashboard-->
+    <!-- Categories-->
+    <string name="recently_played">Recently Played</string>
+    <string name="liked_songs">Liked Songs</string>
+    <string name="most_played">Most Played</string>
+    <string name="your_library">Your Library</string>
+
+    <!-- Titles and Descriptions-->
+    <string name="songs_list_to_listen">Our Collection</string>
+    <string name="songs_list_to_listen_desc">Browse through our collection of artists and their songs and find the right music for you!</string>
+    <string name="top_genre">Your top genres</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search your song</string>
+
+    <!-- Artists-->
+    <string name="alanwalker_description">English-Norwegian DJ and record producer.</string>
+    <string name="arrahman_description">Indian composer, singer, and music producer.</string>
+    <string name="marshmello_description">American electronic music producer and DJ.</string>
+    <string name="arijitsingh_description">Indian playback singer.</string>
+
+    <!-- Strings for navigation view-->
+    <string name="home">HOME</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- String for About Us page-->
+    <string name="aboutusdesc">This application is developed by Ritik Kothari, Smit Nawar and Siddharth Kothari.</string>
+    <string name="feedbackdesc">Feedbacks and suggestions are always welcomed!</string>
+
+</resources>

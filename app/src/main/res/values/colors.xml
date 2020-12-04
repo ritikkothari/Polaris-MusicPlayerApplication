@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Color for Polaris -->
+    <color name="BasicColor">#F5B540</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightWhite">#FFFFFF</color>
+    <color name="scrimcolor">#FBC473</color>
+
+    <!-- Dashboard Colors-->
+    <!-- Body and background Colors-->
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#F1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+    <!-- Card Colors-->
+    <color name="card1">#d4cbe5</color>
+    <color name="card2">#7adccf</color>
+    <color name="card3">#f7c59f</color>
+    <color name="card4">#b8d7f5</color>
+
+    <!-- Library Songs Colors-->
+    <color name="dark">#1B1A1C</color>
+    <color name="dark2">#151515</color>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="250dp"
+    android:layout_height="150dp"
+    android:layout_margin="12sp"
+    android:elevation="8dp"
+    app:cardCornerRadius="2dp">
+
+    <RelativeLayout
+        android:id="@+id/gradient_background"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:background="@drawable/card4"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/mv_bollywood"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:src="@drawable/bollywood_icon" />
+
+        <TextView
+            android:id="@+id/mv_bollywood_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="23dp"
+            android:layout_toRightOf="@+id/mv_bollywood"
+            android:fontFamily="@font/baloo"
+            android:gravity="center_horizontal"
+            android:text="Bollywood"
+            android:textAlignment="center"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
